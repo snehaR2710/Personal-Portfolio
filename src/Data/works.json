@@ -13,6 +13,6 @@
         "description":"This is a fullstack online education website",
         "skills":["React", "TailwindCss", "Nodejs", "Redux", "MongoDB"],
         "demo": "https://edunity-frontend.vercel.app/",
-        "source": "https://www.github.com"
+        "source": "https://github.com/snehaR2710/Edunity-Pvt.-Ltd"
     }
 ]
