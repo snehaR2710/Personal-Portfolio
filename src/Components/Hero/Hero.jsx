@@ -7,10 +7,9 @@ function Hero() {
         <section className={styles.containers}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hey, I&apos;m Sneha</h1>
-                <p className={styles.description}>I am a Frontend Developer using React. 
-                   Reach out if you&apos;d like to know more!
+                <p className={styles.description}>As an enthusiastic frontend developer, I specialize in crafting engaging and responsive user interfaces using HTML, CSS, JavaScript, and React.js. My academic background and project experience have equipped me with a solid understanding of web development principles and best practices.
                 </p>
-                <a className={styles.contactBtn} href="mailto:ranisneha599@gmail.com">Contact Me</a>
+                <a className={styles.contactBtn} href="file:///C:/Users/Twinkle%20sigh/Downloads/Full%20name%20(1).pdf">Resume</a>
             </div>
             <img className={styles.heroImg} src={getImgUrl("hero/heroImage.png")} alt="Hero Png" />
             <div className={styles.topBlur}/>
