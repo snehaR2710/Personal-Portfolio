@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "projects/project1.png",
+        "description":"This is food ordering app ",
+        "skills":["React","Tailwind","Redux"],
+        "demo": "https://mr-foody-sneha.vercel.app/",
+        "source": "https://github.com/snehaR2710/Mr.foodies"
+    },
+    {
+        "title": "Project B",
+        "imageSrc": "projects/project2.png",
+        "description":"This is pokedex project",
+        "skills":["React", "Css"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Project C",
+        "imageSrc": "projects/project.png",
+        "description":"This is pokedex project",
+        "skills":["React", "Css"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    }
+]
