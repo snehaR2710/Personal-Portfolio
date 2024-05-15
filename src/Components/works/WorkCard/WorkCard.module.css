@@ -1,7 +1,8 @@
 @import "../../../vars.css";
 
 .container {
-  /* border:  2px solid green; */
+  position: relative;
+  border:  2px solid green;
   display: flex;
   flex-direction: column;
   border-radius: 10px;
@@ -18,27 +19,28 @@
 }
 
 .title {
-  font-size: 25px;
+  margin-top: -12px;
+  font-size: 20px;
   font-weight: 700;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
 }
 
 .skills {
   width: 100%;
-  margin-top: 14px;
+  margin-top: 10px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 6px;
+  gap: 5px;
   list-style: none;
 }
 .skill {
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
@@ -46,16 +48,19 @@
 }
 
 .links {
-  width: 100%;
-  margin-top: 26px;
+  position: absolute;
+  bottom: 0;
+  width: 75%;
+  margin-top: 15px;
   display: flex;
   justify-content: space-around;
+  margin-bottom: 5px;
 }
 .link {
   cursor: pointer;
   text-decoration: none;
   color: var(--color-text);
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 600;
   border-radius: 100px;
   background: var(--color-primary);

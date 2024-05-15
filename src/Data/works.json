@@ -3,7 +3,7 @@
         "title": "Mr.foodie",
         "imageSrc": "projects/project1.png",
         "description":"This is food ordering app ",
-        "skills":["React","Tailwind","Redux"],
+        "skills":["React","Tailwind","Redux", "Javascript"],
         "demo": "https://mr-foody-sneha.vercel.app/",
         "source": "https://github.com/snehaR2710/Mr.foodies"
     },
@@ -11,16 +11,8 @@
         "title": "Edunity Pvt. Ltd",
         "imageSrc": "projects/project2.png",
         "description":"This is a fullstack online education website",
-        "skills":["React", "TailwindCss", "ReduxToolkit", "Redux"],
+        "skills":["React", "TailwindCss", "Nodejs", "Redux", "MongoDB"],
         "demo": "https://edunity-frontend.vercel.app/",
-        "source": "https://www.github.com"
-    },
-    {
-        "title": "Project C",
-        "imageSrc": "projects/project.png",
-        "description":"This is pokedex project",
-        "skills":["React", "Css"],
-        "demo": "https://www.example.com",
         "source": "https://www.github.com"
     }
 ]
