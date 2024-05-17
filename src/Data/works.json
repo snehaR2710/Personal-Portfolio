@@ -12,7 +12,7 @@
         "imageSrc": "projects/project2.png",
         "description":"This is a fullstack online education website",
         "skills":["React", "TailwindCss", "Nodejs", "Redux", "MongoDB"],
-        "demo": "https://edunity-frontend.vercel.app/",
+        "demo": "https://edunity-pvt-ltd-git-main-sneha-ranis-projects-171884a7.vercel.app",
         "source": "https://github.com/snehaR2710/Edunity-Pvt.-Ltd"
     }
 ]
