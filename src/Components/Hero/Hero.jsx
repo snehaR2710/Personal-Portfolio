@@ -1,6 +1,6 @@
-import { getImgUrl } from "../../utils";
 import styles from './Hero.module.css';
-import cv from "../../assets/cv"
+import cv from "../../assets/cv/cv.pdf"
+import { getImgUrl } from '../../utils'
 
 
 function Hero() {
